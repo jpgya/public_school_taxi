@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634926542931",
+    "project_id": "school-taxi-ae8b1",
+    "storage_bucket": "school-taxi-ae8b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634926542931:android:66dd8bce058903f7e896a6",
+        "android_client_info": {
+          "package_name": "com.example.school_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPE9kpwI6v1KnDaZCBvLs6XYsMPFJKaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
